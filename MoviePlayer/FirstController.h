@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FirstController.h
 //  MoviePlayer
 //
 //  Created by mac on 2017/11/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FirstController : UIViewController
 
 @end
-
